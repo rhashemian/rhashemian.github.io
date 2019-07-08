@@ -1,13 +1,13 @@
 /*
 Author: Robert Hashemian
-http://www.hashemian.com/
+https://www.hashemian.com/
 
 You can use this code in any manner so long as the author's
 name, Web address and this disclaimer is kept intact.
 ********************************************************
 Usage Sample:
 
-<script language="JavaScript" src="http://www.hashemian.com/js/NumberFormat.js"></script>
+<script language="JavaScript" src="https://rhashemian.github.io/js/NumberFormat.js"></script>
 <script language="JavaScript">
 document.write(FormatNumberBy3("1234512345.12345", ".", ","));
 </script>
