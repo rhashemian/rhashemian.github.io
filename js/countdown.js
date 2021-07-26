@@ -7,7 +7,7 @@ Use of this code is hereby granted to anyone. No attribution is required.
 Usage Sample:
 
 <script language="JavaScript">
-TargetDate = "12/31/2020 5:00 AM";
+TargetDate = "2031-12-31T05:00:00";
 BackColor = "palegreen";
 ForeColor = "navy";
 CountActive = true;
